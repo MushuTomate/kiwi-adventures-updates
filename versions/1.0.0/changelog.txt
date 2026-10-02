@@ -1,0 +1,6 @@
+Kiwi Adventures 1.0.0 - Primera versión
+
+- Modpack de aventura y fantasía para Minecraft 1.20.1 (Forge).
+- Mods de exploración, estructuras, mazmorras, jefes, magia (Iron's Spells) y Create.
+- Interfaz cozy propia: menú principal, pausa, multijugador y LAN con botones de madera.
+- Pantalla de carga personalizada de Kiwi Adventures.
